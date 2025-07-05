@@ -1,2 +1,3 @@
 Bienvenido a mi primer repositorio git
 ahora subo un nuevo cambio
+Ejercicio 2 subir cambios a github
