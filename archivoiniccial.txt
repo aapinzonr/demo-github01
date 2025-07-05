@@ -1,1 +1,2 @@
-Bienvenido a mi prmer repositorio git
+Bienvenido a mi primer repositorio git
+ahora subo un nuevo cambio
